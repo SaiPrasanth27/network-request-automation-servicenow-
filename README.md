@@ -54,10 +54,10 @@ Flow Designer
 │
 ├── 📄 README.md                # Project documentation (this file)
 ├── 📄 Flow_Chart.png           # Workflow diagram
-├── 📄 Network_Database_Table.png # Custom table design
-├── 📄 Variable_Set_Config.png  # Variable set configuration
-├── 📄 Relationships.png        # Relationship mapping
-└── 📄 Update_Set_Export.xml    # Update set (import into ServiceNow)
+├── 📄 Network_Request_Item.png # network request items list
+├── 📄 Catalog_items.png  # items ordering
+├── 📄 RITM_Number.png        # Request creations
+└── 📄 Update_Set.xml    # Update set (import into ServiceNow)
 
 ```
 ---
