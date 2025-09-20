@@ -15,7 +15,7 @@ Traditionally, requests were handled through emails, spreadsheets, and calls, le
 This solution is scalable, reusable, and production-oriented – a practical demonstration of ServiceNow Flow Designer, Catalog Items, Notifications, and Approvals.
 
 ## Demo Link
-**[Video](https/www.com)**
+**[Video](https://drive.google.com/file/d/18q0tVJXj8YcEBNS1EIMzTCd_f2l0YzHB/view?usp=sharing)**
 
 ---
 
