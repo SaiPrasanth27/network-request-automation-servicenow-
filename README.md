@@ -19,6 +19,11 @@ This solution is scalable, reusable, and production-oriented – a practical dem
 
 ---
 
+## Screenshots
+**[Screenshots](https://drive.google.com/drive/folders/1v9tmV3Fk41oTxZXtVmhf-rqKkfTRaZUX)**
+
+---
+
 ## 🎯 Objectives
 
 - Provide a centralized catalog item for network service requests.
